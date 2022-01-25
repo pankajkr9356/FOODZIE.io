@@ -1,0 +1,17 @@
+body{
+    background-image: url("maincourse2.jpg");
+    border-color: red;
+}
+li{
+    height: 90;
+    text-decoration: brown;
+    font-family:cursive;
+    font-size:xx-large;
+    color: aqua;
+    
+}
+h1{
+    color: chartreuse;
+    text-align: center;
+    text-decoration: underline;
+}

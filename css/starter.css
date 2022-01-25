@@ -1,0 +1,22 @@
+
+body{
+    background-image: url("Mstarter.jpg");
+    border-color: red;
+}
+p{
+    text-align: left;
+    
+}
+li{
+    height: 90;
+    text-decoration: brown;
+    font-family:cursive;
+    font-size:xx-large;
+    
+}
+h1{
+    margin-top: 10;
+    text-align: center;
+   color: #AEFEFF;
+    text-decoration: underline;
+}
